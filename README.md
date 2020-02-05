@@ -2,5 +2,5 @@
 
 Curso de introdução ao Pandas - Python
 
-Preparado por: Jessica Voigt 
+Preparado por: Jessica Voigt <br>
 Data: Janeiro, 2020
