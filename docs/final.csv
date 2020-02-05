@@ -1,0 +1,17 @@
+,,alto,goals,goals
+,,count,median,sum
+continent,alto,,,
+Africa,False,41,1.0,171.0
+Africa,True,74,1.0,148.0
+Asia,False,46,1.0,219.0
+Asia,True,46,1.0,222.0
+Central America,False,20,0.0,57.0
+Central America,True,26,2.0,198.0
+Europe,False,93,2.0,431.0
+Europe,True,229,1.0,994.0
+North America,False,14,7.5,172.0
+North America,True,9,1.0,34.0
+Oceania,False,13,2.0,77.0
+Oceania,True,10,1.5,46.0
+South America,False,59,1.0,363.0
+South America,True,56,1.0,268.0
